@@ -1,1 +1,1 @@
-web: ipython notebook --port=5000
+web: ipython notebook --port=$PORT
